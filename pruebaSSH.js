@@ -1,1 +1,1 @@
-console.log("Es una prueba de la clave SSH que se puso en el pc y Github. La publica pa GitHub y la privada pa mi");
+console.log("Es una prueba de la clave SSH que se puso en el pc y Github. La publica pa GitHub (servidor) y la privada pa mi (cliente)");
