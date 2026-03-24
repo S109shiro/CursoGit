@@ -34,7 +34,10 @@
 2. **git push origin "ramaSubir"**= Es para empujar los cambios que se han realizado en el repositorio local al remoto.
 3. **git fetch**= Es para traer el historial que existe de forma remota a forma local, solo el **historial (log)**.
 4. **git pull**= Similar al fetch, pero este si obtiene los cambios que estan en el **repo remoto** en el repo local. No solo el historial de cambios.
-   
+
+
+## Clonar repositorio
+1. **git clone (https / shh)**= Esto para obtener una copia local de un repositorio remoto. Se puede usar HTTPS o SHH.
 
 
 
