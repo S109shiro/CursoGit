@@ -33,7 +33,7 @@
 1. **git remote add origin + urlRepo**= Es para asociar al repositorio local un repositorio remoto "con la URL".
 2. **git push origin "ramaSubir"**= Es para empujar los cambios que se han realizado en el repositorio local al remoto.
 3. **git fetch**= Es para traer el historial que existe de forma remota a forma local, solo el **historial (log)**.
-4. **git pull**= Similar al fetch, pero este si obtiene los cambios que estan en el **repo remoto** en el repo local. No solo los cambios.
+4. **git pull**= Similar al fetch, pero este si obtiene los cambios que estan en el **repo remoto** en el repo local. No solo el historial de cambios.
    
 
 
